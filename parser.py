@@ -52,6 +52,7 @@ def parse(tags):  # recevice a list of tags
         for tagToAdd in tagsToAdd:
             if tagToAdd in tags:
                 tagsToAdd.remove(tagToAdd)
-
+    
+    print(neededLoras)
     tags += tagsToAdd
     return tags
