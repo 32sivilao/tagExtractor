@@ -9,7 +9,7 @@ tagToLora = {["grabbing own breast"]: [["breast grab", "breast lift", "sbg", "<l
                                        [""]],
              ["grabbing another's breast"]: [["breast grab", "povbreastgrab", "pov hands", "<lora:POVBGV2:0.85>"],
                                              [""]],
-             ["grabbing from behind"]: [
+             ["grabbing from behind", "grabbing another's breast"]: [
                  ["breast grab", "grabbing from behind", "<lora:qqq-grabbing_from_behind-v2-000006:0.7>"],
                  ["povbreastgrab", "pov hands", "<lora:POVBGV2:0.85>"]],
              ["paizuri invitation"]: [["paizuriinvitation", "cleavage", "partially unbuttoned", "button gap",
